@@ -14,3 +14,4 @@ to order four more vaccines. The vaccines are delivered the following morning be
 agency opens.
 
 Since number of vaccines at the time of opening on nth day will depend on the previous day only and not on the days before, we can use Markov Chain properties to get the outcome.
+Here is an attached pdf to understand the findings.
